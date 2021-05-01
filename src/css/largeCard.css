@@ -1,0 +1,68 @@
+.large-card-content {
+  margin: 0px !important;
+  padding: 0px !important;
+  height: max-content;
+}
+
+.large-card-header-chip {
+    height: 100%;
+}
+
+.large-card-header-item{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.large-card-header{
+    padding: 0px;
+    margin: 0px;
+}
+
+.large-card-text{
+    padding: 3% 5% 0%;
+}
+
+.large-card-grid-row{
+    padding: 1% 3% 1%;
+}
+
+.large-card-grid-row>ion-col{
+    display: flex;
+    justify-content: center;
+}
+
+
+.large-card-grid-row>ion-col>ion-icon{
+    font-size: 30px;
+    color: darkblue;
+}
+
+.list{
+    width: 100%;
+}
+
+.time-stamp{
+    font-weight: lighter;
+    font-size: x-small;
+    color: grey;
+}
+
+.large-card{
+    padding: 0px;
+    margin: 2% 2%;
+}
+
+
+.large-card-chip > ion-icon{
+    color: white;
+    font-weight: bolder;
+}
+
+.pop-over{
+    padding: 0px;
+}
+/* 
+.pp-stats-slides ion-slide{
+    height: 300px;
+    width: 200px;
+} */

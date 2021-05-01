@@ -1,0 +1,9 @@
+.instructions{
+    font-weight: 100;
+    font-size: smaller;
+    color: grey;
+}
+
+.home-slides ion-slide{
+    max-width: max-content;
+}
